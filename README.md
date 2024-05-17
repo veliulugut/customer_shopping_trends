@@ -45,5 +45,11 @@ pip install pandas seaborn matplotlib
 *This chart gives you a quick overview of the distribution of product categories in the dataset. It can be used to see which categories are more concentrated or contain fewer products.*
 
 
+
 ![Graph 3](images/table3.png)
-*Figure 3 :
+
+*Figure 3: When we examine the chart, we see a bar chart showing the number of products sold for each size. In the graph, the x-axis represents the 'Size' values and the y-axis represents the number of products sold for each size. The different colored bars for each size indicate the number of products sold for that size.*
+
+*When we examine the graph, we see that 'Medium' size products are sold the most. While 'Large' size products are also very popular, we observe that 'Small' and 'Extra Large' size products have lower sales.*
+
+*This graph gives us information to compare the sales performance of products in different sizes and to determine which sizes are more popular.*
